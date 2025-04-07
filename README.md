@@ -1,4 +1,5 @@
-💡 Capsulate AI – Smart Meeting Summarizer
+**💡 Capsulate AI – Smart Meeting Summarizer**
+
 Capsulate AI is an intelligent and user-friendly meeting summarization tool designed to help users convert long audio and video meetings into concise, meaningful summaries. Built with Streamlit for the frontend and powered by Google's Gemini 1.5 Pro model for summarization, this project provides seamless audio/video transcription, timestamped transcripts, and downloadable summaries in both .txt and .pdf formats.
 
 🔍 Key Features
