@@ -1,4 +1,4 @@
-**💡 Capsulate AI – Smart Meeting Summarizer**
+# 💡 Capsulate AI – Smart Meeting Summarizer
 
 Capsulate AI is an intelligent and user-friendly meeting summarization tool designed to help users convert long audio and video meetings into concise, meaningful summaries. Built with Streamlit for the frontend and powered by Google's Gemini 1.5 Pro model for summarization, this project provides seamless audio/video transcription, timestamped transcripts, and downloadable summaries in both .txt and .pdf formats.
 
@@ -24,15 +24,15 @@ UI/UX	Streamlit Components, Custom CSS
 File Export	FPDF, Text Generation
 
 
-# 1. Clone the repository
+## 1. Clone the repository
 git clone https://github.com/your-username/capsulate-ai.git
 cd capsulate-ai
 
-# 2. Install dependencies
+## 2. Install dependencies
 pip install -r requirements.txt
 
-# 3. Add your Gemini API key in a .env file
+## 3. Add your Gemini API key in a .env file
 echo "GOOGLE_API_KEY=your_api_key_here" > .env
 
-# 4. Run the app
+## 4. Run the app
 streamlit run app.py
