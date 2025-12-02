@@ -1,0 +1,27 @@
+# Security - NEVER upload these
+.env
+.env.local
+secrets.toml
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Distribution / Builds
+build/
+dist/
+*.egg-info/
+
+# Streamlit specific
+.streamlit/
+
+# IDE settings (VS Code, PyCharm, Mac)
+.vscode/
+.idea/
+.DS_Store
