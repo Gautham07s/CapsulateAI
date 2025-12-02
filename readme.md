@@ -25,18 +25,20 @@ Capsulate AI is an intelligent and user-friendly meeting summarization tool desi
 ```bash
 git clone [https://github.com/Gautham07s/CapsulateAI.git](https://github.com/Gautham07s/CapsulateAI.git)
 cd CapsulateAI
-2. Install dependencies
+### 2. Install dependencies
+```
 Bash
 pip install -r requirements.txt
-3. Set up your API Key
+### 3. Set up your API Key
 Create a .env file in the root directory and add your Google Gemini API key:
-
+```
 Bash
 GOOGLE_API_KEY=your_api_key_here
-4. Run the app
+```
+### 4. Run the app
 Bash
 streamlit run app.py
-
+```
 ### 2. Push it to GitHub
 Once you have saved the file, run these commands in your terminal to upload it:
 
@@ -44,3 +46,4 @@ Once you have saved the file, run these commands in your terminal to upload it:
 git add README.md
 git commit -m "Added project documentation"
 git push origin main
+```
