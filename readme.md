@@ -29,6 +29,7 @@ cd CapsulateAI
 ### 2. Install dependencies
 ```Bash
 pip install -r requirements.txt
+```
 ### 3. Set up your API Key
 Create a .env file in the root directory and add your Google Gemini API key:
 
